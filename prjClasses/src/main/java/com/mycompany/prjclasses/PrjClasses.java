@@ -9,7 +9,7 @@ package com.mycompany.prjclasses;
  * @author lab_services_student
  */
 public class PrjClasses {
-    
+       
     public static void main(String[] args) {
         System.out.println("Hello World! I just did Github and love Reece now");
         
